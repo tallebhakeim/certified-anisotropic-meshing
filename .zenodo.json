@@ -1,0 +1,29 @@
+{
+  "title": "Certified anisotropic meshing of thin, high-aspect-ratio regions: scripts",
+  "upload_type": "software",
+  "description": "Scripts that reproduce every figure, table and number of 'Certified anisotropic meshing of thin, high-aspect-ratio regions in device modeling' (Journal of Computational Electronics, submitted 2026): anisotropic structured cells with P1/RT0 complementary bounds on the resistance.",
+  "creators": [
+    {
+      "name": "Talleb, Hakeim",
+      "affiliation": "Sorbonne Université, CNRS, GeePs",
+      "orcid": "0000-0002-2734-6242"
+    },
+    {
+      "name": "Elomari, Aboubaker",
+      "affiliation": "Sorbonne Université, CNRS, GeePs"
+    },
+    {
+      "name": "Ben Chouikha, Mohamed",
+      "affiliation": "Sorbonne Université, CNRS, GeePs"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "anisotropic mesh",
+    "thin layers",
+    "a posteriori error bounds",
+    "complementary energy",
+    "Raviart-Thomas",
+    "device simulation"
+  ]
+}
