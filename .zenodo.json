@@ -1,7 +1,7 @@
 {
-  "title": "Certified anisotropic meshing of thin, high-aspect-ratio regions: scripts",
+  "title": "Guaranteed bounds on the simulated resistance of thin-layer device structures: scripts",
   "upload_type": "software",
-  "description": "Scripts that reproduce every figure, table and number of 'Certified anisotropic meshing of thin, high-aspect-ratio regions in device modeling' (Journal of Computational Electronics, submitted 2026): anisotropic structured cells with P1/RT0 complementary bounds on the resistance.",
+  "description": "Scripts that reproduce every figure, table and number of 'Guaranteed bounds on the simulated resistance of thin-layer device structures: contact resistance on thin films and isolation sheets' by H. Talleb, A. Elomari and M. Ben Chouikha (submitted to the Journal of Computational Electronics, 2026). A potential solution and a current solution computed on the same stretched mesh enclose the exact two-terminal resistance of the model between a lower and an upper bound. Applications: contact resistance of a contact on a thin film (transfer-length structure) and isolation sheet in a three-layer silicon stack.",
   "creators": [
     {
       "name": "Talleb, Hakeim",
@@ -19,11 +19,12 @@
   ],
   "license": "MIT",
   "keywords": [
-    "anisotropic mesh",
-    "thin layers",
-    "a posteriori error bounds",
-    "complementary energy",
-    "Raviart-Thomas",
+    "contact resistance",
+    "transfer length method",
+    "thin films",
+    "error bounds",
+    "finite elements",
     "device simulation"
-  ]
+  ],
+  "version": "1.0.0"
 }
