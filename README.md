@@ -10,6 +10,9 @@ current solution (P1 stream function in 2D, Raviart-Thomas RT0 face currents in 
 upper bound. The exact resistance of the model lies between the two numbers, whatever the shape
 of the cells.
 
+## Citation
+Archived on Zenodo: concept DOI https://doi.org/10.5281/zenodo.24117327 (all versions); version 1.0.0: https://doi.org/10.5281/zenodo.24117328.
+
 ## Requirements
 Python 3.10+, NumPy, SciPy, Matplotlib (`pip install -r requirements.txt`).
 
